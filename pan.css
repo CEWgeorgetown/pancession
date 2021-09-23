@@ -1,0 +1,16 @@
+.nav {
+  background-color: #000000
+}
+.nav-link {
+  color: #ffffff
+}
+.nav-link:hover {
+  background-color: #f0f8ff
+}
+.dropcolor {
+  background-color: #CCCCCC;
+  padding: 8px;
+}
+.textsm {
+  font-size: 90%
+}
